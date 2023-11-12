@@ -1,0 +1,11 @@
+npm init vue@latest: tạo project Vue
+tất cả html phải ở trong tag <template></template> : là Vue template
+style scoped : khai báo css chỉ có tác dụng trong file hiện tại
+Event: v-on hoặc @ : ví dụ v-on:click="handler" == @click="handler"
+import { ref } from 'vue'; : sử dụng để khai báo state cho Vue, bất cứ thay đổi nào cũng sẽ đc áp dụng ngay lập tức
+<script setup> : mục đích ngắn gọn code: Option API và Composition API(phải đi với <script setup>)
+v-model: là two-way binding, trong khí {{}} chỉ là one-way binding
+v-if: điều kiện để hiện thị component
+v-for: lặp đối tượng(List rendering)
+:class và :style: biding HTML 
+:key
