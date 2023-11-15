@@ -13,3 +13,10 @@
 - watch from vue: thay đổi state khi cho sự kiện: giống các sự kiện @input
 - defineProps: truyền giá trị vào props
 
+- import {RouterView} from 'vue-router': là view cha của tất cả component trong router
+- import { useRoute } from 'vue-router': để lấy các params của route
+- RouterLink : tạo đường link cho Router: ko cần làm mới trang
+	+ class-active: định nghĩa class khi link được trỏ tới
+
+- import { useRouter } from 'vue-router': để điều hướng
+
