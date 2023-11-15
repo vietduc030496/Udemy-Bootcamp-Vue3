@@ -9,3 +9,7 @@
 - v-for: lặp đối tượng(List rendering)
 - :class và :style: biding HTML 
 - :key
+- :src : cho img
+- watch from vue: thay đổi state khi cho sự kiện: giống các sự kiện @input
+- defineProps: truyền giá trị vào props
+
