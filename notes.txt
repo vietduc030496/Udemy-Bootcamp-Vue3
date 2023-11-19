@@ -20,3 +20,8 @@
 
 - import { useRouter } from 'vue-router': để điều hướng
 
+- Suspense : giải quyết bài toán có đồng bộ trong VUe (khi call http)
+	+ #default: sẽ được hiện thị nếu sẵn sàng
+	+ #fallback: dự phòng cho #default
+
+- Watch in vue: theo dõi sự thay đổi của dữ liệu
