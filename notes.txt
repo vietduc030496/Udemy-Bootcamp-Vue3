@@ -25,3 +25,6 @@
 	+ #fallback: dự phòng cho #default
 
 - Watch in vue: theo dõi sự thay đổi của dữ liệu
+
+- computed in vue: tính toán giá trị dựa trên giá trị khác
+- defineEmit in vue: định nghĩa sự kiện(ứng dụng: truyền giá trị từ child đến parent)
